@@ -3,4 +3,4 @@ This is a small introduction to how databases work on an entery level. The gerne
 
 The main focus is to get a grip on PostgreSQL, and how to write some basic SQL related to this RDBMS.
 
-The live presentations will be held in our class discord, following the schedual that Arvid or Ellie will publish in our Discord.
+*The live presentations will be held in our class discord, following the schedual that Arvid or Ellie will publish in our Discord.*
